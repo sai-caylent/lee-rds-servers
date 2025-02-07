@@ -5,9 +5,6 @@
 **/.external_modules*
 
 .external_modules/*
-# .tfstate files
-*.tfstate
-*.tfstate.*
 .idea
 .vscode
 # Crash log files
